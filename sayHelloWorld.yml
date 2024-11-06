@@ -1,0 +1,9 @@
+name: say-hello-world
+# on – определяет события, которые запускают воркфлоу
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: 
+      - uses: actions/checkout@v4
+      - run: make say-hello
