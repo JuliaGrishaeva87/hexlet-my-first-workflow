@@ -1,0 +1,1 @@
+[![say-hello-world](https://github.com/JuliaGrishaeva87/hexlet-my-first-workflow/actions/workflows/sayHelloWorld.yml/badge.svg)](https://github.com/JuliaGrishaeva87/hexlet-my-first-workflow/actions/workflows/sayHelloWorld.yml)
